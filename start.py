@@ -1,5 +1,6 @@
 print("Hello World")
+X=73
+print(X)
 
-x=15.5
-print(x)
-print(type(x))
+y="Mahir"
+print(y)
